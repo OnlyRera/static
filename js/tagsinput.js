@@ -1,6 +1,7 @@
 /*
  * bootstrap-tagsinput v0.8.0
  * 
+ * Code changed by Praful, Tagsinput on click not working applied changes as work arround
  */
 
 (function ($) {
@@ -359,6 +360,9 @@
         $.fn.typeahead.apply(self.$input, typeaheadjs).on('typeahead:selected', $.proxy(function (obj, datum, name) {
           var index = 0;
           typeaheadjs.some(function(dataset, _index) {
+			if(dataset == undefined) {
+				return false;
+			}
             if (dataset.name === name) {
               index = _index;
               return true;
@@ -367,7 +371,7 @@
           });
 
           // @TODO Dep: https://github.com/corejavascript/typeahead.js/issues/89
-          if (typeaheadjs[index].valueKey) {
+          if (typeaheadjs[index] != undefined && typeaheadjs[index].valueKey) {
             self.add(datum[typeaheadjs[index].valueKey]);
           } else {
             self.add(datum);

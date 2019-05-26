@@ -50,3 +50,12 @@ $(this).closest('.owl-carousel').trigger('stop.owl.autoplay');
 })*/
 
 $('.owl-carousel').trigger('stop.owl.autoplay');
+
+var tabPane = $('.tab-pane');
+if(tabPane != undefined && tabPane[0] != undefined) {
+	tabPane[0].classList.add('active');
+	tabPane[0].classList.add('show');
+	var tabLink = $('#' + tabPane[0].id + '-tab');
+	tabLink[0].classList.add('active');
+	tabLink[0].classList.add('show');
+}

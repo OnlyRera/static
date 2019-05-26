@@ -19,7 +19,7 @@ function crateTagInputLists() {
 		project.promoterName = toTitleCase(project.promoterName);
 		project.name = toTitleCase(project.name);
 		reraNoSet.add(project.reraNo.trim());
-		districtSet.add(project.district.trim());
+		//districtSet.add(project.district.trim());
 		if(project.area) {
 			areaSet.add(project.area.trim());
 		}
@@ -33,7 +33,7 @@ function crateTagInputLists() {
 	});
 	
 	reraNoList = Array.from(reraNoSet);
-	districtList = Array.from(districtSet);
+	//districtList = Array.from(districtSet);
 	areaList = Array.from(areaSet);
 	projectNameList = Array.from(projectNameSet);
 	localityList = Array.from(localitySet);

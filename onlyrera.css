@@ -52,6 +52,12 @@ font-weight: bold;
 
 .height-400 {
 	height: 400px !important;
+	overflow-y: auto;
+}
+
+.max-height-400 {
+	max-height: 400px !important;
+	overflow-y: auto;
 }
 
 .font-8 {
@@ -263,6 +269,60 @@ font-weight: bold;
   background-color: #428bca;
 }
 
+.border-top {
+    border-top: 1px solid #ebebeb;
+}
+.single-recent-post .post-thumb-40 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 40px;
+    flex: 0 0 40px;
+    max-width: 40px;
+    width: 40px;
+    margin-right: 20px;
+}
+.single-recent-post .post-content .post-title {
+    font-size: 16px;
+	font-weight: normal;
+    text-transform: capitalize;
+}
+.fa-map-marker {
+    color: #92c800 !important;
+}
+.fa-angle-double-right {
+    color: #92c800 !important;
+}
+.fa {
+    padding: 4px;
+}
+
+/* Affix - Bottom panel starts */
+.mobile-footer-box {
+	width: 20%;
+	float: left;
+	text-align: center;
+	height: 40px;
+}
+.mobile-screen-footer {
+	position: -webkit-sticky;
+	position: sticky;
+	bottom: 0;
+	background-color: #6f6f6fcc;
+	float: left;
+	width: 100%;
+	padding: 5px 0px;
+	z-index: 9999 !important;
+}
+.mobile-footer-box a img {
+	width: 25px;
+	margin: 0px auto;
+}
+.mobile-footer-box a h5 {
+	font-size: 10px;
+	margin: 5px 0px 0px 0px;
+	color: #fff !important;
+}
+/* Affix - Bottom panel ends */
+		  
 /*
 *   bootstrap-tagsinput v0.8.0 End
 */
