@@ -7,6 +7,26 @@
 	padding: .40rem;
 }
 
+.amenities-div {
+	padding-right: 5px;
+    padding-left: 5px;
+	padding-top: 10px;
+    border: 1px solid;
+    border-color: #8080801c;
+}
+
+.svg-amenities {
+	width: 100%; 
+	padding: 0 10%;
+	height: 10vw;
+	fill: #785c46c2;
+}
+
+.font-amenities {    
+	font-size: 12px;
+	margin: 5px 0 10px 0  !important;
+	text-align: center;
+}
 .fade:not(.show) {
     display: none;
 }
