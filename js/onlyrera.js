@@ -32,25 +32,6 @@ for (i = 0; i < acc.length; i++) {
   });
 }
 
-/*
- $(".owl-carousel").owlCarousel({
-	loop:true,
-	smartSpeed:450,
-	responsiveClass: true,
-	autoplayHoverPause: true, // Stops autoplay
-	responsiveRefreshRate : 10,
-	items:1,
-});
-$('.owl-carousel div').on('mouseenter',function(e){
-$(this).closest('.owl-carousel').trigger('play.owl.autoplay');
-})
-
-$('.owl-carousel div').on('mouseleave',function(e){
-$(this).closest('.owl-carousel').trigger('stop.owl.autoplay');
-})*/
-
-$('.owl-carousel').trigger('stop.owl.autoplay');
-
 var tabPane = $('.tab-pane');
 if(tabPane != undefined && tabPane[0] != undefined) {
 	tabPane[0].classList.add('active');
