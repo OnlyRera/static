@@ -579,17 +579,5 @@ c0 13.0488 -10.5332 24.7402 -23.5117 26.0977v0c-14.4453 -0.0390625 -26.2012 -11.
 	</symbol>
 	
 	<symbol id="antiTermiteTreatment" viewBox="0 0 60.7 60.7">
-	<g>
-	<defs>
-		<rect id="SVGID_1_" x="0.3" y="0.3" width="60" height="60"/>
-	</defs>
-	<clipPath id="SVGID_2_">
-		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
-	</clipPath>
-	<g class="st0">
-		<polyline class="st1" points="1.6,59.1 20.8,39.7 59.1,1.6 		"/>
-		<rect x="1.6" y="1.6" class="st1" width="57.5" height="57.5"/>
-	</g>
-</g>
 	</symbol>
 </svg>
