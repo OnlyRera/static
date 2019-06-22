@@ -1,3 +1,11 @@
+.no-display {
+    display: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #945c3e !important;
+}
+
 .table-bordered tr td, .table-bordered tr th{
   border: 1px solid #dddddd;
   border-right-width:0px;
@@ -8,8 +16,8 @@
 }
 
 .amenities-div {
-	padding-right: 5px;
-    padding-left: 5px;
+	padding-right: 5px !important;
+    padding-left: 5px !important;
 	padding-top: 10px;
     border: 1px solid;
     border-color: #8080801c;
@@ -27,6 +35,31 @@
 	margin: 5px 0 10px 0  !important;
 	text-align: center;
 }
+
+.key-features {
+    margin-bottom: 15px;
+}
+
+
+.key-features h4 {
+    margin-bottom: 15px;
+}
+
+.key-feature {
+    font-size: 16px;
+    font-weight: normal;
+    text-transform: capitalize;
+	padding: 5px 10px;
+	background-color: rgba(245, 248, 250, 0.58);
+	border: 1px solid #DDDDDD;
+    margin-bottom: 2px;
+}
+
+
+.key-feature:hover {
+    color: #92c800;
+}
+
 .fade:not(.show) {
     display: none;
 }
@@ -124,12 +157,12 @@ font-weight: bold;
 }
 
 .green-middle {
-	color:#92c800;
+	color:#5d7d05;
 	vertical-align: middle;
 }
 
 .v-align-middle {
-	color:#92c800;
+	color:#5d7d05;
 	vertical-align: middle;
 }
 
@@ -346,3 +379,66 @@ font-weight: bold;
 /*
 *   bootstrap-tagsinput v0.8.0 End
 */
+
+/* Blog css starts */
+.chang-lang {
+	margin: 0px 0px 10px 10px;
+}
+.chang-lang a {
+    font-size: 12px;
+    text-transform: uppercase;
+    color: #292f3b;
+    border: 1px solid rgba(235, 235, 235, 0.53);
+    height: 26px;
+    min-width: 80px;
+    line-height: 24px;
+    text-align: center;
+    -webkit-transition-duration: 400ms;
+    -o-transition-duration: 400ms;
+    transition-duration: 400ms;
+}
+.breadcrumb-area-third {
+	    height: 140px ! important;
+}
+.rehomes-news-area .blog-news-area .single-blog-post-area .blog-details-text p {
+	text-indent: 40px;
+    text-align: justify;
+}
+.rehomes-news-area.blog-details .blog-details-area .post-author-area .author-social-info a {
+    margin-right: 10px ! important;
+}
+.rehomes-news-area.blog-details .blog-details-area .post-author-area .author-social-info p {
+    margin-right: 0 ! important;
+}
+.rehomes-news-area .blog-news-area .single-blog-post-area {
+    border-bottom: 1px solid #ebebeb;
+    padding-bottom: 10px;
+    margin: 10px;
+}
+.rehomes-news-area.blog-details .blog-details-area .rehomes-blockquote .text {
+    background-color: #f5f8fa;
+    padding: 15px;
+    text-align: justify;
+}
+.rehomes-news-area.blog-details .blog-details-area .blog-details-title {
+    font-size: 24px;
+    color: #000000;
+    margin-bottom: 10px;
+    margin-top: 30px;
+    border-bottom: 1px solid #0000000d;
+}
+.rehomes-news-area.blog-details {
+    margin-bottom: -80px;
+}
+.rehomes-news-area .blog-news-area .single-blog-post-area p {
+    text-align: justify;
+}
+.highlights li {
+    margin-left: 15px;
+    list-style: disc;
+	list-style-type: disc;
+}
+.font-normal {
+	font-weight: normal ! important;
+}
+/* Blog css ends */

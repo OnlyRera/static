@@ -2927,7 +2927,7 @@ input:invalid {
     display: block;
     //background-color: #252525;
     //color: #ffffff;
-	border: #343a404d 1px;
+	border: rgba(50,56,63,0.30) 1px;
     border-style: solid;
     height: 40px;
     text-align: center;
@@ -2939,7 +2939,7 @@ input:invalid {
     display: block;
     //background-color: #252525;
     //color: #ffffff;
-	border: #343a404d 1px;
+	border: rgba(50,56,63,0.30) 1px;
     border-style: solid;
     height: 40px;
     text-align: center;
@@ -2947,10 +2947,10 @@ input:invalid {
     cursor: pointer; }
 	
   .rehomes-property-sidebar-area .property-search-form-area .search-property-btn .form-group .form-check input[type="radio"]:checked + label {
-    background-color: #92c80070; }
+    background-color: rgba(146,200,0,0.43); }
 	
   .rehomes-property-sidebar-area .property-search-form-area .search-property-btn .form-group .form-check-bedroom input[type="checkbox"]:checked + label {
-    background-color: #92c80070; }
+    background-color: rgba(146,200,0,0.43); }
 .rehomes-property-sidebar-area .property-search-form-area .form-control {
   padding: 0 15px;
   width: 100%; }
