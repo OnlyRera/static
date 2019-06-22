@@ -442,3 +442,16 @@ font-weight: bold;
 	font-weight: normal ! important;
 }
 /* Blog css ends */
+
+
+.card {
+    margin-bottom: 10px;
+    width: 100%;
+}
+.card-header {
+    padding: .5rem 1.25rem ! important;
+}
+
+.card-body {
+    padding: .5rem 1.25rem ! important;
+}
