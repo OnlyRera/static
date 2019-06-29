@@ -129,9 +129,20 @@ function inPriceRange(price) {
 function filterByBedroomArray(project) {
 	var isFound = false;
 	$.each($("input[name='bedroom']:checked"), function(){            
-		isFound = isFound || !$.inArray($(this).val(), project.bedroomsList);
+		isFound = isFound ||  isValueInArray($(this).val(), project.bedroomsList);
 	});
 	return isFound;
+}
+
+function isValueInArray(value, array) {	
+	value = value.toLowerCase();
+	var i;
+	for (i = 0; i < array.length; i++) { 
+		if(array[i].toLowerCase() == value) {
+			return true;
+		}
+	}
+	return false;
 }
 
 function creatSearchParameters() {
@@ -169,6 +180,10 @@ function isElementInList(element, list) {
 }
 
 function getProjectList() {
+	
+    projectList.sort(function(x, y) {
+        return (x.premium === y.premium)? 0 : x.premium? -1 : 1;
+    });
 	if(projectList.length > 25) {
 		return projectList.slice(0, 25);
 	}
@@ -210,4 +225,4 @@ var router = new VueRouter({
 	]
 });
 
-new Vue({ router }).$mount('#app')
+new Vue({ router:router }).$mount('#app');

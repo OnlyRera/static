@@ -2,32 +2,49 @@ var propertyDetails = {
 "district":"Vadodara",
 "projectList":[
     {
-        "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04671/110119",
-        "promoterName":"SHIV SHAKTI INFRA",
-        "unitTypeList":["Apartment"],
-        "bedroomsList":["3"],
-        "projectFolder":"Gujarat/Vadodara/sun-antilia",
-        "elevationThumbImage":"",
-        "name":"Sun Antilia",
-        "address":"Nr Siddheshwar Happy Homes ,Bh Cygnus World School, Harni Motnath Road",
-        "textOfSellingItems":"2 & 3 BHK Apartment - Shops",
-        "carpetArea":"1000.0",
-        "contactToDisplay":"9725553332, 9725553336",
-        "price":"37.0"
-    },
-    {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA05251/110419",
         "promoterName":"UMA REALITY",
         "unitTypeList":["Apartment"],
         "bedroomsList":["2","3"],
         "projectFolder":"Gujarat/Vadodara/silver-sky",
-        "elevationThumbImage":"17.jpg",
+        "elevationThumbImage":"garden-night-view.jpg",
         "name":"Silver Sky",
         "address":"Sama-Harni 30 Mtr.Link Road, Nr. Krishna Party Plot & motnath Mahadev temple, Harni, Vadodara",
         "textOfSellingItems":"",
         "carpetArea":"1000.0",
         "contactToDisplay":"9099018180",
-        "price":""
+        "price":"",
+        "premium":true
+    },
+    {
+        "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA05530/100619",
+        "promoterName":"KRUPESHBHAI N PATEL AND OTHERS",
+        "unitTypeList":[],
+        "bedroomsList":[],
+        "projectFolder":"null/Vadodara/null",
+        "elevationThumbImage":"",
+        "name":"Greenwoods Cove-ii",
+        "address":"GREENWOODS COVE-II, OPP VICENZA HIGHLANDS, ,B/H FGI CAMPUS, GOTRI SEVASI ROAD,",
+        "textOfSellingItems":"",
+        "carpetArea":"",
+        "contactToDisplay":"",
+        "price":"",
+        "premium":false
+    },
+    {
+        "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA05532/110619",
+        "promoterName":"AMISH K. PATEL & OTHERS",
+        "unitTypeList":[],
+        "bedroomsList":[],
+        "projectFolder":"null/Vadodara/null",
+        "elevationThumbImage":"",
+        "name":"Neptune Bliss",
+        "address":"Chhani Canal -Nilam Farm Road ,Near STP Pumping Station",
+        "textOfSellingItems":"",
+        "carpetArea":"",
+        "contactToDisplay":"",
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA05246/100419",
@@ -35,13 +52,14 @@ var propertyDetails = {
         "unitTypeList":["Office","Shop"],
         "bedroomsList":[],
         "projectFolder":"Gujarat/Vadodara/v-r-one",
-        "elevationThumbImage":"",
+        "elevationThumbImage":"elevation-night-view.jpg",
         "name":"V R One",
-        "address":"N.H.8 Touch, Opp. L&T Knowledge City, Between Ajwa & Waghodia Chowkdi, Vadodara - 390019.",
+        "address":"N.H.8 Touch, Opp. L&T Knowledge City, Between Ajwa & Waghodia Chokadi, Vadodara - 390019",
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"8469755655, 8141494022",
-        "price":""
+        "price":"",
+        "premium":true
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA01155/301217",
@@ -55,7 +73,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03921/021118",
@@ -69,7 +88,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA01270/100118",
@@ -83,7 +103,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA00244/250917",
@@ -97,7 +118,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA01248/080118",
@@ -111,7 +133,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA01512/030218",
@@ -125,7 +148,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA01151/291217",
@@ -139,7 +163,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA01153/291217",
@@ -153,7 +178,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA01304/160118",
@@ -167,7 +193,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VAGHODIA/Others/RAA03617/081018",
@@ -181,7 +208,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03018/260618",
@@ -195,7 +223,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02248/030418",
@@ -209,7 +238,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/PAA00136/120917",
@@ -223,7 +253,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA01148/291217",
@@ -237,7 +268,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA00129/110917",
@@ -251,7 +283,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA00133/120917",
@@ -265,7 +298,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA00156/150917",
@@ -279,7 +313,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02259/040418",
@@ -293,7 +328,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA00251/250917",
@@ -307,7 +343,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA02284/060418",
@@ -321,7 +358,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VAGHODIA/Others/RAA02788/010618",
@@ -335,7 +373,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA01268/100118",
@@ -349,7 +388,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA00219/210917",
@@ -363,7 +403,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA03809/241018",
@@ -377,7 +418,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA00936/061217",
@@ -391,7 +433,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA00130/120917",
@@ -405,7 +448,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA00117/110917",
@@ -419,7 +463,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA01954/090318",
@@ -433,7 +478,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA00263/260917",
@@ -447,7 +493,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA00387/091017",
@@ -461,7 +508,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA01902/070318",
@@ -475,7 +523,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA00830/EX1/120918",
@@ -489,7 +538,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02571/070518",
@@ -503,7 +553,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA00353/061017",
@@ -517,7 +568,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA04117/261118",
@@ -531,7 +583,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VAGHODIA/Others/RAA02909/130618",
@@ -545,7 +598,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA01891/060318",
@@ -559,7 +613,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02396/170418",
@@ -573,7 +628,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA03100/A1C/270219",
@@ -587,7 +643,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA00254/EX1/140219",
@@ -601,7 +658,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02716/230518",
@@ -615,7 +673,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02945/190618",
@@ -629,7 +688,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02335/110418",
@@ -643,7 +703,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02872/080618",
@@ -657,7 +718,23 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
+    },
+    {
+        "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04806/070219",
+        "promoterName":"SHREENATH DEVELOPERS",
+        "unitTypeList":[],
+        "bedroomsList":[],
+        "projectFolder":"Gujarat/Vadodara/nathdwar-villashreenathdevelopers70",
+        "elevationThumbImage":"",
+        "name":"Nathdwar Villa",
+        "address":"\"NATHDWAR VILLA\" OPP. D-MART, ,WAGHODIA ROAD",
+        "textOfSellingItems":"",
+        "carpetArea":"",
+        "contactToDisplay":"",
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03554/290918",
@@ -671,7 +748,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02987/250618",
@@ -685,7 +763,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA00272/270917",
@@ -699,7 +778,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA01525/050218",
@@ -713,7 +793,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02748/300518",
@@ -727,7 +808,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02399/170418",
@@ -741,7 +823,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA00376/EX1/150319",
@@ -755,7 +838,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02058/170318",
@@ -769,7 +853,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA01490/030218",
@@ -783,7 +868,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA00367/EX1/190918",
@@ -797,7 +883,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03501/260918",
@@ -811,7 +898,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04078/201118",
@@ -825,7 +913,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA00380/091017",
@@ -839,7 +928,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA00859/291117",
@@ -853,7 +943,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04213/011218",
@@ -867,7 +958,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA01443/EX1/070319",
@@ -881,7 +973,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA01458/310118",
@@ -895,7 +988,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02552/050518",
@@ -909,7 +1003,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02559/EX1/200219",
@@ -923,7 +1018,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04450/241218",
@@ -937,7 +1033,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03458/200918",
@@ -951,7 +1048,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02799/020618",
@@ -965,7 +1063,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04102/221118",
@@ -979,7 +1078,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02261/040418",
@@ -993,7 +1093,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA00093/EX1/071218",
@@ -1007,7 +1108,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02289/070418",
@@ -1021,7 +1123,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03285/300718",
@@ -1035,7 +1138,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA01552/060218",
@@ -1049,7 +1153,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VAGHODIA/Others/RAA03298/300718",
@@ -1063,7 +1168,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA01989/130318",
@@ -1077,7 +1183,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03287/300718",
@@ -1091,7 +1198,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02669/150518",
@@ -1105,7 +1213,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02293/A1M/120319",
@@ -1119,7 +1228,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04412/181218",
@@ -1133,7 +1243,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA01409/EX1/150319",
@@ -1147,7 +1258,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA01501/030218",
@@ -1161,7 +1273,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA01604/120218",
@@ -1175,7 +1288,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA01364/200118",
@@ -1189,7 +1303,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA00372/071017",
@@ -1203,7 +1318,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02551/050518",
@@ -1217,7 +1333,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02294/070418",
@@ -1231,7 +1348,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA01736/EX1/190918",
@@ -1245,7 +1363,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA00721/151117",
@@ -1259,7 +1378,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02938/190618",
@@ -1273,7 +1393,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA00369/071017",
@@ -1287,7 +1408,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03821/251018",
@@ -1301,7 +1423,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02729/280518",
@@ -1315,7 +1438,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA00373/071017",
@@ -1329,7 +1453,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA00378/071017",
@@ -1343,7 +1468,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03113/070718",
@@ -1357,7 +1483,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03786/231018",
@@ -1371,7 +1498,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02700/190518",
@@ -1385,7 +1513,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02565/070518",
@@ -1399,7 +1528,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02288/070418",
@@ -1413,7 +1543,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA01506/EX1/210119",
@@ -1427,7 +1558,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02672/EX1/070319",
@@ -1441,7 +1573,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA03019/EX1/150219",
@@ -1455,7 +1588,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA01843/EX1/190319",
@@ -1469,7 +1603,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04827/120219",
@@ -1483,7 +1618,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04321/121218",
@@ -1497,7 +1633,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA01896/060318",
@@ -1511,7 +1648,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03224/240718",
@@ -1525,7 +1663,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02971/EX1/160319",
@@ -1539,7 +1678,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04424/201218",
@@ -1553,7 +1693,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA01942/EX1/290319",
@@ -1567,7 +1708,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03114/070718",
@@ -1581,7 +1723,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02066/190318",
@@ -1595,7 +1738,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03024/280618",
@@ -1609,7 +1753,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02155/230318",
@@ -1623,7 +1768,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03703/151018",
@@ -1637,7 +1783,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA03693/151018",
@@ -1651,7 +1798,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04284/071218",
@@ -1665,7 +1813,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03419/140918",
@@ -1679,7 +1828,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02625/100518",
@@ -1693,7 +1843,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03315/010818",
@@ -1707,7 +1858,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA00401/111017",
@@ -1721,7 +1873,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/PADRA/Others/MAA03064/030718",
@@ -1735,7 +1888,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA00687/131117",
@@ -1749,7 +1903,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04065/191118",
@@ -1763,7 +1918,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA01596/120218",
@@ -1777,7 +1933,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03632/091018",
@@ -1791,7 +1948,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04323/121218",
@@ -1805,7 +1963,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03069/030718",
@@ -1819,7 +1978,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02018/150318",
@@ -1833,7 +1993,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA01011/131217",
@@ -1847,7 +2008,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02322/100418",
@@ -1861,7 +2023,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02623/EX1/140219",
@@ -1875,7 +2038,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02457/230418",
@@ -1889,7 +2053,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA01610/120218",
@@ -1903,7 +2068,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02404/190418",
@@ -1917,7 +2083,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03081/040718",
@@ -1931,7 +2098,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02380/160418",
@@ -1945,7 +2113,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04141/281118",
@@ -1959,7 +2128,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04264/061218",
@@ -1973,7 +2143,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA01278/100118",
@@ -1987,7 +2158,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02302/EX1/020119",
@@ -2001,7 +2173,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02865/080618",
@@ -2015,7 +2188,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02546/040518",
@@ -2029,7 +2203,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02651/EX1/210219",
@@ -2043,7 +2218,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA01683/170218",
@@ -2057,7 +2233,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA01617/150218",
@@ -2071,7 +2248,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02890/130618",
@@ -2085,7 +2263,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03944/021118",
@@ -2099,7 +2278,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02310/100418",
@@ -2113,7 +2293,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA01643/EX1/040219",
@@ -2127,7 +2308,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02301/EX1/050219",
@@ -2141,7 +2323,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA02537/A1C/120319",
@@ -2155,7 +2338,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02988/250618",
@@ -2169,7 +2353,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA01410/EX1/250219",
@@ -2183,7 +2368,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA02411/190418",
@@ -2197,7 +2383,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/PADRA/Others/MAA02656/110518",
@@ -2211,7 +2398,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03881/291018",
@@ -2225,7 +2413,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA02862/080618",
@@ -2239,7 +2428,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04083/201118",
@@ -2253,7 +2443,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02544/040518",
@@ -2267,7 +2458,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02147/230318",
@@ -2281,7 +2473,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04079/EX1/140219",
@@ -2295,7 +2488,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03806/241018",
@@ -2309,7 +2503,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA01471/010218",
@@ -2323,7 +2518,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA00836/EX1/180219",
@@ -2333,11 +2529,12 @@ var propertyDetails = {
         "projectFolder":"Gujarat/Vadodara/the-trillium",
         "elevationThumbImage":"",
         "name":"The Trillium",
-        "address":"THE TRILLIUM, BEFORE NAVRACHNA UNIVERSITY ,VASNA â€“ BHAYLI ROAD, TP-2, BHAYLI",
+        "address":"THE TRILLIUM, BEFORE NAVRACHNA UNIVERSITY ,VASNA – BHAYLI ROAD, TP-2, BHAYLI",
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03051/020718",
@@ -2351,7 +2548,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA00769/201117",
@@ -2365,7 +2563,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA01139/A1M/070219",
@@ -2379,7 +2578,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03465/200918",
@@ -2393,7 +2593,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02962/EX1/140219",
@@ -2407,7 +2608,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02346/EX1/150219",
@@ -2421,7 +2623,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02738/300518",
@@ -2435,7 +2638,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03002/260618",
@@ -2449,7 +2653,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02828/EX1/020119",
@@ -2463,7 +2668,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02972/220618",
@@ -2477,7 +2683,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03790/231018",
@@ -2491,7 +2698,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04538/311218",
@@ -2505,7 +2713,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA03854/291018",
@@ -2519,7 +2728,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA02854/070618",
@@ -2533,7 +2743,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03120/090718",
@@ -2547,7 +2758,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA01134/281217",
@@ -2561,7 +2773,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03871/EX1/180219",
@@ -2575,7 +2788,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02264/050418",
@@ -2589,7 +2803,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03321/240818",
@@ -2603,7 +2818,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA00424/121017",
@@ -2617,7 +2833,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03799/241018",
@@ -2631,7 +2848,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03079/040718",
@@ -2645,7 +2863,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA02958/200618",
@@ -2659,7 +2878,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02111/220318",
@@ -2673,7 +2893,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA01245/EX1/150219",
@@ -2687,7 +2908,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02416/190418",
@@ -2701,7 +2923,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA01597/120218",
@@ -2715,7 +2938,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA01246/EX1/150219",
@@ -2729,7 +2953,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA01735/230218",
@@ -2743,7 +2968,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02469/240418",
@@ -2757,7 +2983,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02400/170418",
@@ -2771,7 +2998,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA00835/EX1/140219",
@@ -2785,7 +3013,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA01640/160218",
@@ -2799,7 +3028,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03464/200918",
@@ -2813,7 +3043,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03049/020718",
@@ -2827,7 +3058,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02307/100418",
@@ -2841,7 +3073,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02810/EX1/140219",
@@ -2855,7 +3088,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02948/190618",
@@ -2869,7 +3103,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02211/310318",
@@ -2883,7 +3118,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04179/301118",
@@ -2897,7 +3133,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02717/230518",
@@ -2911,7 +3148,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04051/171118",
@@ -2925,7 +3163,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA01599/A1R/190319",
@@ -2939,7 +3178,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04260/061218",
@@ -2953,7 +3193,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02567/070518",
@@ -2967,7 +3208,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02331/110418",
@@ -2981,7 +3223,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA01647/160218",
@@ -2995,7 +3238,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04242/041218",
@@ -3009,7 +3253,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03407/120918",
@@ -3023,7 +3268,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA01105/EX1/110219",
@@ -3037,7 +3283,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03645/EX1/020419",
@@ -3051,7 +3298,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA01154/301217",
@@ -3065,7 +3313,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA01541/060218",
@@ -3079,7 +3328,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA00866/301117",
@@ -3093,7 +3343,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/PADRA/Others/MAA02780/010618",
@@ -3107,7 +3358,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA01957/EX1/200219",
@@ -3121,7 +3373,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04073/191118",
@@ -3135,7 +3388,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA01307/EX1/210219",
@@ -3149,7 +3403,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03401/120918",
@@ -3163,7 +3418,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04632/080119",
@@ -3177,7 +3433,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03655/101018",
@@ -3191,7 +3448,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/PADRA/Others/MAA04589/040119",
@@ -3205,7 +3463,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03789/231018",
@@ -3219,7 +3478,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03420/140918",
@@ -3233,7 +3493,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03385/070918",
@@ -3247,7 +3508,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02545/040518",
@@ -3261,7 +3523,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02645/100518",
@@ -3275,7 +3538,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03404/120918",
@@ -3289,7 +3553,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03565/031018",
@@ -3303,7 +3568,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03382/070918",
@@ -3317,7 +3583,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02306/100418",
@@ -3331,7 +3598,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA01397/230118",
@@ -3345,7 +3613,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02133/220318",
@@ -3359,7 +3628,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04999/070319",
@@ -3373,7 +3643,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA00250/250917",
@@ -3387,7 +3658,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04181/301118",
@@ -3401,7 +3673,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03654/101018",
@@ -3415,7 +3688,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02263/050418",
@@ -3429,7 +3703,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03010/260618",
@@ -3443,7 +3718,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03526/270918",
@@ -3457,7 +3733,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03056/020718",
@@ -3471,7 +3748,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03392/110918",
@@ -3485,7 +3763,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02305/100418",
@@ -3499,7 +3778,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA01398/230118",
@@ -3513,7 +3793,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02928/150618",
@@ -3527,7 +3808,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03375/050918",
@@ -3541,7 +3823,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04173/291118",
@@ -3555,7 +3838,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA01650/160218",
@@ -3569,7 +3853,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04803/060219",
@@ -3583,7 +3868,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02476/240418",
@@ -3597,7 +3883,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03707/161018",
@@ -3611,7 +3898,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA01922/070318",
@@ -3625,7 +3913,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VAGHODIA/Others/RAA04023/141118",
@@ -3639,7 +3928,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02448/210418",
@@ -3653,7 +3943,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA01623/150218",
@@ -3667,7 +3958,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02631/100518",
@@ -3681,7 +3973,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03540/290918",
@@ -3695,7 +3988,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02393/170418",
@@ -3709,7 +4003,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04522/291218",
@@ -3723,7 +4018,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03795/231018",
@@ -3737,7 +4033,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03473/240918",
@@ -3751,7 +4048,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA00903/041217",
@@ -3765,7 +4063,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA01927/080318",
@@ -3779,7 +4078,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04876/180219",
@@ -3793,7 +4093,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02694/180518",
@@ -3807,7 +4108,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA01888/060318",
@@ -3821,7 +4123,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA01363/200118",
@@ -3835,7 +4138,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA00103/080917",
@@ -3849,7 +4153,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03282/300718",
@@ -3863,7 +4168,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03858/291018",
@@ -3877,7 +4183,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02260/040418",
@@ -3891,7 +4198,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04650/EX1/020419",
@@ -3905,7 +4213,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02060/170318",
@@ -3919,7 +4228,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VAGHODIA/Others/RAA03801/241018",
@@ -3933,7 +4243,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA02873/120618",
@@ -3947,7 +4258,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA05000/070319",
@@ -3961,7 +4273,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/PAA02875/120618",
@@ -3975,7 +4288,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02596/080518",
@@ -3989,7 +4303,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA01531/050218",
@@ -4003,7 +4318,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA01477/010218",
@@ -4017,7 +4333,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03367/050918",
@@ -4031,7 +4348,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03626/081018",
@@ -4045,7 +4363,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA01827/030318",
@@ -4059,7 +4378,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03983/061118",
@@ -4073,7 +4393,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03088/040718",
@@ -4087,7 +4408,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03093/050718",
@@ -4101,7 +4423,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02063/190318",
@@ -4115,7 +4438,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04666/110119",
@@ -4129,7 +4453,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04564/020119",
@@ -4143,7 +4468,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA03991/061118",
@@ -4157,7 +4483,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04379/151218",
@@ -4171,7 +4498,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02226/020418",
@@ -4185,7 +4513,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02966/210618",
@@ -4199,7 +4528,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03229/240718",
@@ -4213,7 +4543,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04544/311218",
@@ -4227,7 +4558,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04639/080119",
@@ -4241,7 +4573,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03897/301018",
@@ -4255,7 +4588,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02842/060618",
@@ -4269,7 +4603,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02363/130418",
@@ -4283,7 +4618,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02392/170418",
@@ -4297,7 +4633,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04029/151118",
@@ -4311,7 +4648,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/PADRA/Others/RAA04704/210119",
@@ -4325,7 +4663,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03276/300718",
@@ -4339,7 +4678,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04153/281118",
@@ -4353,7 +4693,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04296/101218",
@@ -4367,7 +4708,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA02239/030418",
@@ -4381,7 +4723,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA02769/310518",
@@ -4395,7 +4738,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04252/061218",
@@ -4409,7 +4753,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03673/111018",
@@ -4423,7 +4768,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03793/231018",
@@ -4437,7 +4783,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02441/210418",
@@ -4451,7 +4798,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04653/100119",
@@ -4465,7 +4813,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03303/310718",
@@ -4479,7 +4828,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03283/300718",
@@ -4493,7 +4843,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03848/261018",
@@ -4507,7 +4858,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04612/070119",
@@ -4521,7 +4873,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03955/031118",
@@ -4535,7 +4888,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04132/271118",
@@ -4549,7 +4903,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03292/300718",
@@ -4563,7 +4918,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/KARJAN/Others/RAA04958/010319",
@@ -4577,7 +4933,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03951/021118",
@@ -4591,7 +4948,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA03811/241018",
@@ -4605,7 +4963,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04258/061218",
@@ -4619,7 +4978,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA01149/EX1/190119",
@@ -4633,7 +4993,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04556/010119",
@@ -4647,7 +5008,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04277/071218",
@@ -4661,7 +5023,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA01919/070318",
@@ -4675,7 +5038,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02857/070618",
@@ -4689,7 +5053,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02927/150618",
@@ -4703,7 +5068,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03894/301018",
@@ -4717,7 +5083,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04576/030119",
@@ -4731,7 +5098,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA02864/080618",
@@ -4745,7 +5113,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03718/161018",
@@ -4759,7 +5128,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA02426/200418",
@@ -4773,7 +5143,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04773/300119",
@@ -4787,7 +5158,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04516/291218",
@@ -4801,7 +5173,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02978/220618",
@@ -4815,7 +5188,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04695/180119",
@@ -4829,7 +5203,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03468/200918",
@@ -4843,7 +5218,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA04399/171218",
@@ -4857,7 +5233,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03756/201018",
@@ -4871,7 +5248,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA00690/131117",
@@ -4885,7 +5263,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02767/310518",
@@ -4899,7 +5278,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04471/261218",
@@ -4913,7 +5293,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04288/071218",
@@ -4927,7 +5308,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04256/061218",
@@ -4941,7 +5323,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02985/250618",
@@ -4955,7 +5338,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03827/251018",
@@ -4969,7 +5353,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA02728/230518",
@@ -4983,7 +5368,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02439/210418",
@@ -4997,7 +5383,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03447/190918",
@@ -5011,7 +5398,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA00187/EX1/260219",
@@ -5025,7 +5413,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03214/210718",
@@ -5039,7 +5428,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03012/A1M/151218",
@@ -5053,7 +5443,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA03108/070718",
@@ -5067,7 +5458,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA04912/250219",
@@ -5081,7 +5473,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA00691/EX2/050319",
@@ -5095,7 +5488,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03672/111018",
@@ -5109,7 +5503,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02878/120618",
@@ -5123,7 +5518,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/CHHOTA UDAIPUR/Others/PAA04748/250119",
@@ -5137,7 +5533,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03994/061118",
@@ -5151,7 +5548,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03879/291018",
@@ -5165,7 +5563,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03213/210718",
@@ -5179,7 +5578,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03748/201018",
@@ -5193,7 +5593,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02251/040418",
@@ -5207,7 +5608,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03058/020718",
@@ -5221,7 +5623,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04106/261118",
@@ -5235,7 +5638,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02952/200618",
@@ -5249,7 +5653,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA03193/200718",
@@ -5263,7 +5668,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA03730/191018",
@@ -5277,7 +5683,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA01247/EX1/140219",
@@ -5291,7 +5698,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03130/100718",
@@ -5305,7 +5713,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03505/260918",
@@ -5319,7 +5728,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04878/190219",
@@ -5333,7 +5743,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04294/101218",
@@ -5347,7 +5758,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/PAA03451/190918",
@@ -5361,7 +5773,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03613/061018",
@@ -5375,7 +5788,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04036/151118",
@@ -5389,7 +5803,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03372/050918",
@@ -5403,7 +5818,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03222/230718",
@@ -5417,7 +5833,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03217/230718",
@@ -5431,7 +5848,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03863/291018",
@@ -5445,7 +5863,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03639/091018",
@@ -5459,7 +5878,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VAGHODIA/Others/RAA03837/251018",
@@ -5473,7 +5893,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03288/300718",
@@ -5487,7 +5908,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04096/221118",
@@ -5501,7 +5923,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03417/140918",
@@ -5515,7 +5938,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03949/021118",
@@ -5529,7 +5953,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04661/110119",
@@ -5543,7 +5968,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03787/231018",
@@ -5557,7 +5983,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04686/170119",
@@ -5571,7 +5998,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA03373/050918",
@@ -5585,7 +6013,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03487/250918",
@@ -5599,7 +6028,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03380/070918",
@@ -5613,7 +6043,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03804/241018",
@@ -5627,7 +6058,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04282/071218",
@@ -5641,7 +6073,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04234/041218",
@@ -5655,7 +6088,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03823/251018",
@@ -5669,7 +6103,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03409/140918",
@@ -5683,7 +6118,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04517/291218",
@@ -5697,7 +6133,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA03557/031018",
@@ -5711,7 +6148,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VAGHODIA/Others/RAA04061/191118",
@@ -5725,7 +6163,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04864/180219",
@@ -5739,7 +6178,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03663/111018",
@@ -5753,7 +6193,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03842/261018",
@@ -5767,7 +6208,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04109/261118",
@@ -5781,7 +6223,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02723/230518",
@@ -5795,7 +6238,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04300/101218",
@@ -5809,7 +6253,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA03803/241018",
@@ -5823,7 +6268,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04042/161118",
@@ -5837,7 +6283,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA04101/221118",
@@ -5851,7 +6298,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04702/210119",
@@ -5865,7 +6313,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA04373/151218",
@@ -5879,7 +6328,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04555/010119",
@@ -5893,7 +6343,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03901/011118",
@@ -5907,7 +6358,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04167/291118",
@@ -5921,7 +6373,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03815/241018",
@@ -5935,7 +6388,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA03978/051118",
@@ -5949,7 +6403,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04696/180119",
@@ -5963,7 +6418,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04151/281118",
@@ -5977,7 +6433,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04550/010119",
@@ -5991,7 +6448,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03660/111018",
@@ -6005,7 +6463,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03893/301018",
@@ -6019,7 +6478,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA04563/020119",
@@ -6033,7 +6493,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03765/221018",
@@ -6047,7 +6508,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04561/020119",
@@ -6061,7 +6523,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04140/281118",
@@ -6075,7 +6538,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04495/281218",
@@ -6089,7 +6553,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04351/131218",
@@ -6103,7 +6568,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03993/061118",
@@ -6117,7 +6583,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04059/191118",
@@ -6131,7 +6598,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04831/120219",
@@ -6145,7 +6613,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03714/161018",
@@ -6159,7 +6628,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04135/271118",
@@ -6173,7 +6643,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03960/051118",
@@ -6187,7 +6658,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04338/121218",
@@ -6201,7 +6673,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04362/141218",
@@ -6215,7 +6688,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03997/061118",
@@ -6229,7 +6703,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04752/250119",
@@ -6243,7 +6718,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03947/021118",
@@ -6257,7 +6733,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04375/151218",
@@ -6271,7 +6748,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04020/141118",
@@ -6285,7 +6763,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VAGHODIA/Others/RAA04274/061218",
@@ -6299,7 +6778,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04143/281118",
@@ -6313,7 +6793,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA00055/010917",
@@ -6327,7 +6808,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04715/210119",
@@ -6341,7 +6823,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02866/A1R/120319",
@@ -6355,7 +6838,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA04183/301118",
@@ -6369,7 +6853,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04701/190119",
@@ -6383,7 +6868,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04308/111218",
@@ -6397,7 +6883,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA04481/271218",
@@ -6411,7 +6898,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04587/030119",
@@ -6425,7 +6913,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04370/151218",
@@ -6439,7 +6928,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04810/080219",
@@ -6453,7 +6943,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04492/281218",
@@ -6467,7 +6958,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA01420/240118",
@@ -6481,7 +6973,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04554/010119",
@@ -6495,7 +6988,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04723/220119",
@@ -6509,7 +7003,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02731/280518",
@@ -6523,7 +7018,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04432/201218",
@@ -6537,7 +7033,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04491/281218",
@@ -6551,7 +7048,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA01478/EX1/230119",
@@ -6565,7 +7063,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04739/240119",
@@ -6579,7 +7078,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA01150/291217",
@@ -6593,7 +7093,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA00359/061017",
@@ -6607,7 +7108,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04758/280119",
@@ -6621,7 +7123,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02846/060618",
@@ -6635,7 +7138,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04927/260219",
@@ -6649,7 +7153,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA05135/260319",
@@ -6663,7 +7168,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA05228/080419",
@@ -6677,7 +7183,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04873/180219",
@@ -6691,7 +7198,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA05006/110319",
@@ -6705,7 +7213,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04947/280219",
@@ -6719,7 +7228,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA02884/130618",
@@ -6733,7 +7243,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04943/280219",
@@ -6747,7 +7258,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04845/140219",
@@ -6761,7 +7273,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04851/150219",
@@ -6775,7 +7288,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04849/150219",
@@ -6789,7 +7303,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04909/220219",
@@ -6803,7 +7318,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA05073/180319",
@@ -6817,7 +7333,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04853/150219",
@@ -6831,7 +7348,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04762/280119",
@@ -6845,7 +7363,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA05030/120319",
@@ -6859,7 +7378,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04931/260219",
@@ -6873,7 +7393,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04977/050319",
@@ -6887,7 +7408,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA05159/290319",
@@ -6901,7 +7423,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04908/220219",
@@ -6915,7 +7438,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04887/200219",
@@ -6929,7 +7453,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VAGHODIA/Others/MAA04963/020319",
@@ -6943,7 +7468,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04959/010319",
@@ -6957,7 +7483,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA05071/180319",
@@ -6971,7 +7498,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA00696/141117",
@@ -6985,7 +7513,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VAGHODIA/Others/RAA00120/110917",
@@ -6999,7 +7528,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA05058/150319",
@@ -7013,7 +7543,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04968/020319",
@@ -7027,7 +7558,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA05111/200319",
@@ -7041,7 +7573,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA05105/200319",
@@ -7051,11 +7584,12 @@ var propertyDetails = {
         "projectFolder":"Gujarat/Vadodara/auro-prime",
         "elevationThumbImage":"",
         "name":"Auro Prime",
-        "address":"Near Auro Residency, B/H Samanvay Status II, ,Bill Canal Road, Bill TP â€“ 1, FP No.-121",
+        "address":"Near Auro Residency, B/H Samanvay Status II, ,Bill Canal Road, Bill TP – 1, FP No.-121",
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA05146/270319",
@@ -7069,7 +7603,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA01256/090118",
@@ -7083,7 +7618,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA05156/280319",
@@ -7097,7 +7633,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA05113/200319",
@@ -7111,7 +7648,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA05176/300319",
@@ -7125,7 +7663,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA02437/210418",
@@ -7139,7 +7678,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA00517/231017",
@@ -7153,7 +7693,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA00056/010917",
@@ -7167,7 +7708,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA01263/090118",
@@ -7181,7 +7723,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA05241/100419",
@@ -7195,7 +7738,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA05361/010519",
@@ -7209,7 +7753,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA05279/150419",
@@ -7223,7 +7768,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA05340/290419",
@@ -7237,7 +7783,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA05328/260419",
@@ -7251,7 +7798,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VAGHODIA/Others/RAA05359/300419",
@@ -7265,7 +7813,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA05283/160419",
@@ -7279,7 +7828,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA05443/150519",
@@ -7293,7 +7843,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA05422/130519",
@@ -7307,7 +7858,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA05339/290419",
@@ -7321,7 +7873,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA05428/140519",
@@ -7335,7 +7888,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA05376/030519",
@@ -7349,7 +7903,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA05363/010519",
@@ -7363,7 +7918,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA05382/040519",
@@ -7377,7 +7933,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA05406/080519",
@@ -7391,7 +7948,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA01078/211217",
@@ -7405,7 +7963,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04137/EX1/020319",
@@ -7419,7 +7978,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA02418/200418",
@@ -7433,7 +7993,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02914/140618",
@@ -7447,7 +8008,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02286/060418",
@@ -7461,7 +8023,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02336/110418",
@@ -7475,7 +8038,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA01918/070318",
@@ -7489,7 +8053,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA00127/110917",
@@ -7503,7 +8068,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA01156/301217",
@@ -7517,7 +8083,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03922/021118",
@@ -7531,7 +8098,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03050/020718",
@@ -7545,7 +8113,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA00227/220917",
@@ -7559,7 +8128,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA00267/260917",
@@ -7573,7 +8143,98 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
+    },
+    {
+        "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA05529/100619",
+        "promoterName":"RUCHI INFRASTRUCTURE",
+        "unitTypeList":[],
+        "bedroomsList":[],
+        "projectFolder":"null/Vadodara/null",
+        "elevationThumbImage":"",
+        "name":"Aarna Villa A",
+        "address":"KALALI TALSAT ROAD , NR. CLOUD 9 ,OPP VINTAGE BUNGLOWS",
+        "textOfSellingItems":"",
+        "carpetArea":"",
+        "contactToDisplay":"",
+        "price":"",
+        "premium":false
+    },
+    {
+        "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA05478/180519",
+        "promoterName":"THE PLANET BUILTCON",
+        "unitTypeList":[],
+        "bedroomsList":[],
+        "projectFolder":"null/Vadodara/null",
+        "elevationThumbImage":"",
+        "name":"The Planet 1",
+        "address":"THE PLANET 1, BEFORE PRATHAM RIVERA ,BANCO CANAL ROAD , OFF. PADRA ROAD BILL",
+        "textOfSellingItems":"",
+        "carpetArea":"",
+        "contactToDisplay":"",
+        "price":"",
+        "premium":false
+    },
+    {
+        "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA05513/060619",
+        "promoterName":"DIYA HOMES",
+        "unitTypeList":[],
+        "bedroomsList":[],
+        "projectFolder":"null/Vadodara/null",
+        "elevationThumbImage":"",
+        "name":"Ria Grand Villa",
+        "address":"FP NO 127, TPS 32, NR BILLABONG SCHOOL ,VADSAR",
+        "textOfSellingItems":"",
+        "carpetArea":"",
+        "contactToDisplay":"",
+        "price":"",
+        "premium":false
+    },
+    {
+        "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA05487/240519",
+        "promoterName":"KAMLESH GANDHI PROJECTS",
+        "unitTypeList":[],
+        "bedroomsList":[],
+        "projectFolder":"null/Vadodara/null",
+        "elevationThumbImage":"",
+        "name":"Ultima Life Style",
+        "address":"SARITA HOSPITAL ROAD, NEAR SAPPHIRE GLOBAL SCHOOL ,BESIDE KANHA LUXURIA COMPLEX, PARIVAR CHAR RASTA, WAGHODIA DABHOI RING ROAD",
+        "textOfSellingItems":"",
+        "carpetArea":"",
+        "contactToDisplay":"",
+        "price":"",
+        "premium":false
+    },
+    {
+        "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA05483/210519",
+        "promoterName":"AUM INFRA",
+        "unitTypeList":[],
+        "bedroomsList":[],
+        "projectFolder":"null/Vadodara/null",
+        "elevationThumbImage":"",
+        "name":"Square 11",
+        "address":"SQUARE 11, PLOT NO 2,11 ,CITY PARK SOCIETY, NEAR GIPCL CIRCLE,SAMA",
+        "textOfSellingItems":"",
+        "carpetArea":"",
+        "contactToDisplay":"",
+        "price":"",
+        "premium":false
+    },
+    {
+        "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA05453/170519",
+        "promoterName":"ARUNODAY STHAPATYA",
+        "unitTypeList":[],
+        "bedroomsList":[],
+        "projectFolder":"null/Vadodara/null",
+        "elevationThumbImage":"",
+        "name":"Narayanam",
+        "address":"BLOCK NO 679/B R S NO961/1/B ,BILL VILLAGE",
+        "textOfSellingItems":"",
+        "carpetArea":"",
+        "contactToDisplay":"",
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04263/061218",
@@ -7587,7 +8248,68 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
+    },
+    {
+        "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA05490/240519",
+        "promoterName":"LABH ENTERPRISE",
+        "unitTypeList":[],
+        "bedroomsList":[],
+        "projectFolder":"null/Vadodara/null",
+        "elevationThumbImage":"",
+        "name":"Rudraksh Avenue",
+        "address":"Rudraksh Avenue, Near Ville – 36, 18 Mt. Wide Road, ,Nr. Bankco Company, Bill, Vadodara 391410",
+        "textOfSellingItems":"",
+        "carpetArea":"",
+        "contactToDisplay":"",
+        "price":"",
+        "premium":false
+    },
+    {
+        "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA05555/140619",
+        "promoterName":"SARAL CORPORATION",
+        "unitTypeList":[],
+        "bedroomsList":[],
+        "projectFolder":"null/Vadodara/null",
+        "elevationThumbImage":"",
+        "name":"Lotus White Field",
+        "address":"OPP. EVEREST ICON, NEAR EVEREST EXPERIYA ,VASNA BHAYLI ROAD, OLD PADRA ROAD",
+        "textOfSellingItems":"",
+        "carpetArea":"",
+        "contactToDisplay":"",
+        "price":"",
+        "premium":false
+    },
+    {
+        "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA05491/240519",
+        "promoterName":"AARADHYA ASSOCIATES",
+        "unitTypeList":[],
+        "bedroomsList":[],
+        "projectFolder":"null/Vadodara/null",
+        "elevationThumbImage":"",
+        "name":"Aaradhya Ornate",
+        "address":"AARADHYA ORNATE,BESIDE SAAKAR OPULENT ,NR.VEMALI VILLAGE,SAMA SAVLI ROAD",
+        "textOfSellingItems":"",
+        "carpetArea":"",
+        "contactToDisplay":"",
+        "price":"",
+        "premium":false
+    },
+    {
+        "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA05460/180519",
+        "promoterName":"Samanvay Sparsh",
+        "unitTypeList":[],
+        "bedroomsList":[],
+        "projectFolder":"null/Vadodara/null",
+        "elevationThumbImage":"",
+        "name":"Samanvay Sapphire",
+        "address":"BEFORE NARAYAN GREENS OPP SKYMARK ,SAMA SAVLI ROAD",
+        "textOfSellingItems":"",
+        "carpetArea":"",
+        "contactToDisplay":"",
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04089/221118",
@@ -7601,7 +8323,68 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
+    },
+    {
+        "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04671/110119",
+        "promoterName":"SHIV SHAKTI INFRA",
+        "unitTypeList":["Apartment"],
+        "bedroomsList":["3"],
+        "projectFolder":"Gujarat/Vadodara/sun-antilia",
+        "elevationThumbImage":"sun-antilia-elevation.jpg",
+        "name":"Sun Antilia",
+        "address":"Nr Siddheshwar Happy Homes ,Bh Cygnus World School, Harni Motnath Road",
+        "textOfSellingItems":"2 & 3 BHK Apartment - Shops",
+        "carpetArea":"1000.0",
+        "contactToDisplay":"9725553332, 9725553336",
+        "price":"37.0",
+        "premium":true
+    },
+    {
+        "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA05534/120619",
+        "promoterName":"Empire Realty",
+        "unitTypeList":["Apartment"],
+        "bedroomsList":["4"],
+        "projectFolder":"Gujarat/Vadodara/empire-flora",
+        "elevationThumbImage":"top-view-tower-a-b.jpg",
+        "name":"Empire Flora",
+        "address":"Nr. Narayan Greenwoods, Opp Essar Petrol Pump, Sama Savli Road.",
+        "textOfSellingItems":"",
+        "carpetArea":"",
+        "contactToDisplay":"7265035555, 7265045555",
+        "price":"",
+        "premium":true
+    },
+    {
+        "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA05517/060619",
+        "promoterName":"S P INFRA",
+        "unitTypeList":[],
+        "bedroomsList":[],
+        "projectFolder":"Gujarat/Vadodara/shree-siddheshwar-paradise",
+        "elevationThumbImage":"night-view.jpg",
+        "name":"Shree Siddheshwar Paradise",
+        "address":"SHREE SIDDHWSHWAR PARADISE, 30 MTR HARNI-SAMA LINK ROAD, ,NR ESSAR PETROL PUMP. NR GADA CIRCLE, HARNI",
+        "textOfSellingItems":"",
+        "carpetArea":"",
+        "contactToDisplay":"7284848634, 7284848632",
+        "price":"",
+        "premium":true
+    },
+    {
+        "reraNo":"PR/GJ/VADODARA/VAGHODIA/Others/MAA04313/111218",
+        "promoterName":"SHAKTI CREATION",
+        "unitTypeList":["Shop","Apartment"],
+        "bedroomsList":["0","2","3"],
+        "projectFolder":"Gujarat/Vadodara/sharnam-happy-homes",
+        "elevationThumbImage":"final-3-bhk-tower-view-sharnam.jpg",
+        "name":"Sharnam Happy Homes",
+        "address":"Sharnam Happy Homes\n Near Sayajipura Township, \nWater tank road,\nNew Karelibaug, Sayajipura,",
+        "textOfSellingItems":"",
+        "carpetArea":"",
+        "contactToDisplay":"8401211188, 7878287373",
+        "price":"",
+        "premium":true
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02557/050518",
@@ -7615,7 +8398,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02349/120418",
@@ -7629,7 +8413,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02845/060618",
@@ -7643,7 +8428,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA03131/100718",
@@ -7657,7 +8443,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02036/160318",
@@ -7671,7 +8458,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA01411/240118",
@@ -7685,7 +8473,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03099/050718",
@@ -7699,7 +8488,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04503/281218",
@@ -7713,7 +8503,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA02406/190418",
@@ -7727,7 +8518,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04733/230119",
@@ -7741,7 +8533,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04732/230119",
@@ -7755,7 +8548,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03773/221018",
@@ -7769,7 +8563,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03556/290918",
@@ -7783,7 +8578,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/PADRA/Others/CAA03851/261018",
@@ -7797,7 +8593,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA03720/171018",
@@ -7811,7 +8608,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02115/220318",
@@ -7825,7 +8623,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02179/270318",
@@ -7839,7 +8638,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA05284/160419",
@@ -7853,7 +8653,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA00237/220917",
@@ -7867,7 +8668,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02059/EX2/060319",
@@ -7881,7 +8683,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA00167/160917",
@@ -7895,7 +8698,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA00701/EX1/120918",
@@ -7909,7 +8713,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA01555/EX1/150219",
@@ -7923,7 +8728,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA01104/261217",
@@ -7937,7 +8743,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA00255/260917",
@@ -7951,7 +8758,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02198/280318",
@@ -7965,7 +8773,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02366/130418",
@@ -7979,7 +8788,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02308/100418",
@@ -7993,7 +8803,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA01484/010218",
@@ -8007,7 +8818,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA00374/071017",
@@ -8021,7 +8833,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03170/180718",
@@ -8035,7 +8848,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02513/260418",
@@ -8049,7 +8863,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA03607/061018",
@@ -8063,7 +8878,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03000/250618",
@@ -8077,7 +8893,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VAGHODIA/Others/RAA04076/191118",
@@ -8091,7 +8908,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA01849/EX1/140219",
@@ -8105,7 +8923,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/DABHOI/Others/RAA03023/280618",
@@ -8119,7 +8938,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA01320/170118",
@@ -8133,7 +8953,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA01152/291217",
@@ -8147,7 +8968,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03111/070718",
@@ -8161,7 +8983,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA01303/160118",
@@ -8175,7 +8998,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03750/201018",
@@ -8189,7 +9013,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04904/210219",
@@ -8203,7 +9028,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA00191/200917",
@@ -8217,7 +9043,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02125/EX1/210219",
@@ -8231,7 +9058,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA03676/121018",
@@ -8245,7 +9073,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA00349/051017",
@@ -8259,7 +9088,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02708/190518",
@@ -8273,7 +9103,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA00137/120917",
@@ -8287,7 +9118,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02129/220318",
@@ -8301,7 +9133,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03188/190718",
@@ -8315,7 +9148,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA01952/EX1/061018",
@@ -8329,7 +9163,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02895/130618",
@@ -8343,7 +9178,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA00242/250917",
@@ -8357,7 +9193,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA00166/EX1/290918",
@@ -8371,7 +9208,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA00153/150917",
@@ -8385,7 +9223,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02486/250418",
@@ -8399,7 +9238,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02478/240418",
@@ -8413,7 +9253,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/PADRA/Others/MAA01318/170118",
@@ -8427,7 +9268,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA01917/070318",
@@ -8441,7 +9283,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02389/EX1/140219",
@@ -8455,7 +9298,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA00243/EX1/190119",
@@ -8469,7 +9313,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA02332/110418",
@@ -8483,7 +9328,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA00379/071017",
@@ -8497,7 +9343,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02906/EX1/020319",
@@ -8511,7 +9358,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA00366/071017",
@@ -8525,7 +9373,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA01079/211217",
@@ -8539,7 +9388,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03134/110718",
@@ -8553,7 +9403,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA01964/090318",
@@ -8567,7 +9418,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02252/040418",
@@ -8581,7 +9433,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04008/131118",
@@ -8595,7 +9448,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA01317/170118",
@@ -8609,7 +9463,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03311/010818",
@@ -8623,7 +9478,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03152/120718",
@@ -8637,7 +9493,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02412/EX1/140219",
@@ -8651,7 +9508,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02858/070618",
@@ -8665,7 +9523,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02912/140618",
@@ -8679,7 +9538,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02722/230518",
@@ -8693,7 +9553,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02999/250618",
@@ -8707,7 +9568,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA01309/160118",
@@ -8721,7 +9583,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA01319/EX1/151218",
@@ -8735,7 +9598,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA01337/EX1/071218",
@@ -8749,7 +9613,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03067/030718",
@@ -8763,7 +9628,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA01262/090118",
@@ -8777,7 +9643,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03251/260718",
@@ -8791,7 +9658,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA01379/220118",
@@ -8805,7 +9673,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02901/130618",
@@ -8819,7 +9688,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA01454/EX1/190918",
@@ -8833,7 +9703,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02338/110418",
@@ -8847,7 +9718,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA00271/270917",
@@ -8861,7 +9733,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04121/271118",
@@ -8875,7 +9748,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04112/261118",
@@ -8889,7 +9763,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA01832/EX1/200219",
@@ -8903,7 +9778,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02340/110418",
@@ -8917,7 +9793,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04094/221118",
@@ -8931,7 +9808,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02956/200618",
@@ -8945,7 +9823,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03446/190918",
@@ -8959,7 +9838,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02547/050518",
@@ -8973,7 +9853,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02042/160318",
@@ -8987,7 +9868,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA01378/220118",
@@ -9001,7 +9883,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02570/070518",
@@ -9015,7 +9898,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/PADRA/Others/RAA03668/111018",
@@ -9029,7 +9913,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03236/260718",
@@ -9043,7 +9928,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA01241/080118",
@@ -9057,7 +9943,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03070/EX1/200219",
@@ -9071,7 +9958,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03766/221018",
@@ -9085,7 +9973,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02485/240418",
@@ -9099,7 +9988,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA00216/210917",
@@ -9113,7 +10003,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04033/151118",
@@ -9127,7 +10018,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA00368/EX1/071218",
@@ -9141,7 +10033,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04384/161218",
@@ -9155,7 +10048,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA01384/220118",
@@ -9169,7 +10063,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02143/230318",
@@ -9183,7 +10078,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA01837/030318",
@@ -9197,7 +10093,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA01093/EX1/270219",
@@ -9211,7 +10108,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA00275/270917",
@@ -9225,7 +10123,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02817/040618",
@@ -9235,11 +10134,12 @@ var propertyDetails = {
         "projectFolder":"Gujarat/Vadodara/orchid-platina",
         "elevationThumbImage":"",
         "name":"Orchid Platina",
-        "address":"Orchid Platina, Opp. Raama Shikhar, Next to Merryland Party Plot, , Behind McDonaldâ€™s, Sama Savli Road,",
+        "address":"Orchid Platina, Opp. Raama Shikhar, Next to Merryland Party Plot, , Behind McDonald’s, Sama Savli Road,",
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA01380/EX1/071218",
@@ -9253,7 +10153,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA01312/160118",
@@ -9267,7 +10168,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA01523/050218",
@@ -9281,7 +10183,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02821/040618",
@@ -9295,7 +10198,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VAGHODIA/Others/RAA02575/070518",
@@ -9309,7 +10213,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04232/041218",
@@ -9323,7 +10228,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04124/271118",
@@ -9337,7 +10243,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02602/080518",
@@ -9351,7 +10258,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02506/260418",
@@ -9365,7 +10273,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/PADRA/Others/MAA02329/110418",
@@ -9379,7 +10288,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VAGHODIA/Others/RAA02405/190418",
@@ -9393,7 +10303,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02548/050518",
@@ -9407,7 +10318,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04045/171118",
@@ -9421,7 +10333,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02974/220618",
@@ -9435,7 +10348,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04021/141118",
@@ -9449,7 +10363,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03683/121018",
@@ -9463,7 +10378,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA03715/161018",
@@ -9477,7 +10393,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02508/260418",
@@ -9491,7 +10408,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03245/260718",
@@ -9505,7 +10423,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA01094/EX1/280219",
@@ -9519,7 +10438,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02732/280518",
@@ -9533,7 +10453,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VAGHODIA/Others/RAA01091/EX1/220219",
@@ -9547,7 +10468,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02986/250618",
@@ -9561,7 +10483,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VAGHODIA/Others/RAA04446/241218",
@@ -9575,7 +10498,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04573/020119",
@@ -9589,7 +10513,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03080/040718",
@@ -9603,7 +10528,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA01852/050318",
@@ -9617,7 +10543,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA00392/091017",
@@ -9631,7 +10558,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03704/151018",
@@ -9645,7 +10573,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02235/020418",
@@ -9659,7 +10588,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA00583/A1R/210219",
@@ -9673,7 +10603,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA00586/EX1/071218",
@@ -9687,7 +10618,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA00585/031117",
@@ -9701,7 +10633,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA00264/260917",
@@ -9715,7 +10648,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02505/260418",
@@ -9729,7 +10663,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA01467/A1M/EX1/290319",
@@ -9743,7 +10678,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04022/141118",
@@ -9757,7 +10693,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA01266/100118",
@@ -9771,7 +10708,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA01947/090318",
@@ -9785,7 +10723,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02947/190618",
@@ -9799,7 +10738,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VAGHODIA/Others/RAA02091/200318",
@@ -9813,7 +10753,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA00395/101017",
@@ -9827,7 +10768,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02381/160418",
@@ -9841,7 +10783,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA01510/EX1/200219",
@@ -9855,7 +10798,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA00165/160917",
@@ -9869,7 +10813,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03237/260718",
@@ -9883,7 +10828,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02957/200618",
@@ -9897,7 +10843,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03144/120718",
@@ -9911,7 +10858,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/PADRA/Others/RAA04028/151118",
@@ -9925,7 +10873,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA01831/030318",
@@ -9939,7 +10888,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA01347/EX1/040219",
@@ -9953,7 +10903,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02000/EX1/310119",
@@ -9967,7 +10918,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA01517/EX1/210119",
@@ -9981,7 +10933,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA01390/220118",
@@ -9995,7 +10948,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02929/150618",
@@ -10009,7 +10963,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA01969/120318",
@@ -10023,7 +10978,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03015/260618",
@@ -10037,7 +10993,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03027/280618",
@@ -10051,7 +11008,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA01277/100118",
@@ -10065,7 +11023,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03444/190918",
@@ -10079,7 +11038,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04130/EX1/020419",
@@ -10093,7 +11053,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA04546/010119",
@@ -10107,7 +11068,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02540/030518",
@@ -10121,7 +11083,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03082/040718",
@@ -10135,7 +11098,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VAGHODIA/Others/MAA04610/050119",
@@ -10149,7 +11113,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04159/291118",
@@ -10163,7 +11128,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA01909/070318",
@@ -10177,7 +11143,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA01987/130318",
@@ -10191,7 +11158,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04114/261118",
@@ -10205,7 +11173,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03471/240918",
@@ -10219,7 +11188,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA03722/EX1/220219",
@@ -10233,7 +11203,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03535/290918",
@@ -10247,7 +11218,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA01641/160218",
@@ -10261,7 +11233,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03728/A1R/250219",
@@ -10275,7 +11248,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA02484/240418",
@@ -10289,7 +11263,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03060/020718",
@@ -10303,7 +11278,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA02926/150618",
@@ -10317,7 +11293,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA01923/070318",
@@ -10331,7 +11308,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03438/180918",
@@ -10345,7 +11323,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA00273/270917",
@@ -10359,7 +11338,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02937/190618",
@@ -10373,7 +11353,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03725/171018",
@@ -10387,7 +11368,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03831/251018",
@@ -10401,7 +11383,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02273/050418",
@@ -10415,7 +11398,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02344/120418",
@@ -10429,7 +11413,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA01470/010218",
@@ -10443,7 +11428,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/PADRA/Others/MAA04103/221118",
@@ -10457,7 +11443,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02160/260318",
@@ -10471,7 +11458,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02675/EX1/140219",
@@ -10485,7 +11473,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VAGHODIA/Others/CAA02395/170418",
@@ -10499,7 +11488,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04235/041218",
@@ -10513,7 +11503,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02350/EX2/140219",
@@ -10527,7 +11518,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA01308/160118",
@@ -10541,7 +11533,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA01931/080318",
@@ -10555,7 +11548,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02131/220318",
@@ -10569,7 +11563,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02660/110518",
@@ -10583,7 +11578,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02726/230518",
@@ -10597,7 +11593,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA00580/021117",
@@ -10611,7 +11608,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02230/020418",
@@ -10625,7 +11623,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04463/261218",
@@ -10639,7 +11638,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04527/291218",
@@ -10653,7 +11653,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04367/141218",
@@ -10667,7 +11668,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VAGHODIA/Others/RAA00870/301117",
@@ -10681,7 +11683,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA01502/030218",
@@ -10695,7 +11698,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02472/240418",
@@ -10709,7 +11713,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02438/210418",
@@ -10723,7 +11728,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02593/080518",
@@ -10737,7 +11743,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VAGHODIA/Others/RAA02733/280518",
@@ -10751,7 +11758,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02372/160418",
@@ -10765,7 +11773,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA01377/220118",
@@ -10779,7 +11788,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA01609/120218",
@@ -10793,7 +11803,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA01328/EX1/210119",
@@ -10807,7 +11818,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA01229/060118",
@@ -10821,7 +11833,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA01327/EX1/020119",
@@ -10835,7 +11848,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA00365/071017",
@@ -10849,7 +11863,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04414/191218",
@@ -10863,7 +11878,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA02458/EX1/190918",
@@ -10877,7 +11893,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA01962/090318",
@@ -10891,7 +11908,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04357/141218",
@@ -10905,7 +11923,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03578/041018",
@@ -10919,7 +11938,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04113/261118",
@@ -10933,7 +11953,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02002/150318",
@@ -10947,7 +11968,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA01187/030118",
@@ -10961,7 +11983,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03603/051018",
@@ -10975,7 +11998,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/PAA02887/130618",
@@ -10989,7 +12013,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04435/201218",
@@ -11003,7 +12028,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02819/040618",
@@ -11017,7 +12043,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA01845/030318",
@@ -11031,7 +12058,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02450/210418",
@@ -11045,7 +12073,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03958/051118",
@@ -11059,7 +12088,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02391/EX1/020119",
@@ -11073,7 +12103,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04027/151118",
@@ -11087,7 +12118,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03399/120918",
@@ -11101,7 +12133,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA02753/300518",
@@ -11115,7 +12148,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA02292/070418",
@@ -11129,7 +12163,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA02832/060618",
@@ -11143,7 +12178,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA02831/060618",
@@ -11157,7 +12193,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02504/260418",
@@ -11171,7 +12208,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA02844/060618",
@@ -11185,7 +12223,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04174/301118",
@@ -11199,7 +12238,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02840/060618",
@@ -11213,7 +12253,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03624/081018",
@@ -11227,7 +12268,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA01101/261217",
@@ -11241,7 +12283,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA04381/161218",
@@ -11255,7 +12298,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02984/250618",
@@ -11269,7 +12313,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA01316/EX1/190918",
@@ -11283,7 +12328,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04306/111218",
@@ -11297,7 +12343,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04877/190219",
@@ -11311,7 +12358,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA00375/EX1/290319",
@@ -11325,7 +12373,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA00703/EX1/210119",
@@ -11339,7 +12388,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA01534/050218",
@@ -11353,7 +12403,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03406/120918",
@@ -11367,7 +12418,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA00704/EX1/270219",
@@ -11381,7 +12433,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02345/EX1/261218",
@@ -11395,7 +12448,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04314/121218",
@@ -11409,7 +12463,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA03830/251018",
@@ -11423,7 +12478,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02664/140518",
@@ -11437,7 +12493,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA01974/120318",
@@ -11451,7 +12508,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02681/160518",
@@ -11465,7 +12523,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03089/040718",
@@ -11479,7 +12538,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VAGHODIA/Others/MAA01106/261217",
@@ -11493,7 +12553,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VAGHODIA/Others/RAA04166/291118",
@@ -11507,7 +12568,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02983/250618",
@@ -11521,7 +12583,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03046/290618",
@@ -11535,7 +12598,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04518/291218",
@@ -11549,7 +12613,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03160/130718",
@@ -11563,7 +12628,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA01642/160218",
@@ -11577,7 +12643,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VAGHODIA/Others/RAA03952/021118",
@@ -11591,7 +12658,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03384/070918",
@@ -11605,7 +12673,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02556/050518",
@@ -11619,7 +12688,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04366/141218",
@@ -11633,7 +12703,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04146/281118",
@@ -11647,7 +12718,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03965/051118",
@@ -11661,7 +12733,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03020/EX1/261218",
@@ -11675,7 +12748,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA01945/090318",
@@ -11689,7 +12763,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03859/291018",
@@ -11703,7 +12778,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04312/111218",
@@ -11717,7 +12793,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04060/191118",
@@ -11731,7 +12808,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04241/041218",
@@ -11745,7 +12823,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02287/060418",
@@ -11759,7 +12838,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03564/031018",
@@ -11773,7 +12853,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA03048/020718",
@@ -11787,7 +12868,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03383/070918",
@@ -11801,7 +12883,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03644/091018",
@@ -11815,7 +12898,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03688/151018",
@@ -11829,7 +12913,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03381/070918",
@@ -11843,7 +12928,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03110/070718",
@@ -11857,7 +12943,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03309/010818",
@@ -11871,7 +12958,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA01921/070318",
@@ -11885,7 +12973,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03812/241018",
@@ -11899,7 +12988,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04514/291218",
@@ -11913,7 +13003,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03657/101018",
@@ -11927,7 +13018,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02074/EX1/050219",
@@ -11941,7 +13033,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/SUDA/RAA03834/251018",
@@ -11955,7 +13048,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA01653/160218",
@@ -11969,7 +13063,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03452/190918",
@@ -11983,7 +13078,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA01544/060218",
@@ -11997,7 +13093,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02247/030418",
@@ -12011,7 +13108,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04679/150119",
@@ -12025,7 +13123,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04401/181218",
@@ -12039,7 +13138,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VAGHODIA/Others/RAA03845/261018",
@@ -12053,7 +13153,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04353/131218",
@@ -12067,7 +13168,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03320/240818",
@@ -12081,21 +13183,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
-    },
-    {
-        "reraNo":"PR/GJ/VADODARA/VAGHODIA/Others/MAA04313/111218",
-        "promoterName":"SHAKTI CREATION",
-        "unitTypeList":[],
-        "bedroomsList":[],
-        "projectFolder":"Gujarat/Vadodara/sharnam-happy-homes",
-        "elevationThumbImage":"",
-        "name":"Sharnam Happy Homes",
-        "address":"NR SAYJI TOWNSHIP WATER TANK ,NEW KARELIBAUG SAYAJIPURA",
-        "textOfSellingItems":"",
-        "carpetArea":"",
-        "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03713/161018",
@@ -12109,7 +13198,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03829/251018",
@@ -12123,7 +13213,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03103/070718",
@@ -12137,7 +13228,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04731/230119",
@@ -12151,7 +13243,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04753/250119",
@@ -12165,7 +13258,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04155/281118",
@@ -12179,7 +13273,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03391/110918",
@@ -12193,7 +13288,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02300/090418",
@@ -12207,7 +13303,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02304/100418",
@@ -12221,7 +13318,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02299/090418",
@@ -12235,7 +13333,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04511/281218",
@@ -12249,7 +13348,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02474/A1R/220219",
@@ -12263,7 +13363,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02908/130618",
@@ -12277,7 +13378,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02312/100418",
@@ -12291,7 +13393,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03165/170718",
@@ -12305,7 +13408,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02271/050418",
@@ -12319,7 +13423,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03508/270918",
@@ -12333,7 +13438,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA00265/EX1/071218",
@@ -12347,7 +13453,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04207/011218",
@@ -12361,7 +13468,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04539/311218",
@@ -12375,7 +13483,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02067/190318",
@@ -12389,7 +13498,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA01240/080118",
@@ -12403,7 +13513,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03601/051018",
@@ -12417,7 +13528,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA01396/230118",
@@ -12431,7 +13543,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03293/300718",
@@ -12445,7 +13558,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03762/221018",
@@ -12459,7 +13573,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA05402/080519",
@@ -12473,7 +13588,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03574/041018",
@@ -12487,7 +13603,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02655/EX1/090119",
@@ -12501,7 +13618,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA00393/091017",
@@ -12515,7 +13633,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02869/080618",
@@ -12529,7 +13648,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04411/181218",
@@ -12543,7 +13663,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03575/041018",
@@ -12557,7 +13678,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VAGHODIA/Others/RAA00168/160917",
@@ -12571,7 +13693,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/PADRA/Others/MAA04066/191118",
@@ -12585,7 +13708,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03551/290918",
@@ -12599,7 +13723,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04205/011218",
@@ -12613,7 +13738,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA00194/200917",
@@ -12627,7 +13753,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03117/090718",
@@ -12641,7 +13768,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/PADRA/Others/MAA03675/121018",
@@ -12655,7 +13783,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03677/121018",
@@ -12669,7 +13798,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA00164/160917",
@@ -12683,7 +13813,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA01758/260218",
@@ -12697,7 +13828,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04921/260219",
@@ -12711,7 +13843,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04172/291118",
@@ -12725,7 +13858,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA01234/EX1/230119",
@@ -12739,7 +13873,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03141/110718",
@@ -12753,7 +13888,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04388/161218",
@@ -12767,7 +13903,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA04039/151118",
@@ -12781,7 +13918,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03891/301018",
@@ -12795,7 +13933,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04476/261218",
@@ -12809,7 +13948,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03988/061118",
@@ -12823,7 +13963,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04007/131118",
@@ -12837,7 +13978,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04997/070319",
@@ -12851,7 +13993,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA01575/080218",
@@ -12865,7 +14008,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03770/221018",
@@ -12879,7 +14023,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03559/031018",
@@ -12893,7 +14038,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03596/051018",
@@ -12907,7 +14053,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA01925/080318",
@@ -12921,7 +14068,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA00674/131117",
@@ -12935,7 +14083,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03209/210718",
@@ -12949,7 +14098,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02061/170318",
@@ -12963,7 +14113,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03866/291018",
@@ -12977,7 +14128,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03682/121018",
@@ -12991,7 +14143,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VAGHODIA/Others/RAA03631/081018",
@@ -13005,7 +14158,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03448/190918",
@@ -13019,7 +14173,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04380/161218",
@@ -13033,7 +14188,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03591/051018",
@@ -13047,7 +14203,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04794/060219",
@@ -13061,7 +14218,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03573/041018",
@@ -13075,7 +14233,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02871/080618",
@@ -13089,7 +14248,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA01916/EX1/190918",
@@ -13103,7 +14263,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02174/270318",
@@ -13117,7 +14278,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03723/171018",
@@ -13131,7 +14293,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03490/250918",
@@ -13145,7 +14308,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04052/171118",
@@ -13159,7 +14323,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03544/290918",
@@ -13173,7 +14338,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04641/080119",
@@ -13187,7 +14353,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04636/080119",
@@ -13201,7 +14368,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04643/090119",
@@ -13215,7 +14383,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02934/180618",
@@ -13229,7 +14398,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04505/281218",
@@ -13243,7 +14413,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA02500/250418",
@@ -13257,7 +14428,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03534/290918",
@@ -13271,7 +14443,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02364/130418",
@@ -13285,7 +14458,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03299/300718",
@@ -13299,7 +14473,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03506/260918",
@@ -13313,7 +14488,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02562/050518",
@@ -13327,7 +14503,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02652/110518",
@@ -13341,7 +14518,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03966/051118",
@@ -13355,7 +14533,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03198/200718",
@@ -13369,7 +14548,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02662/140518",
@@ -13383,7 +14563,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02563/050518",
@@ -13397,7 +14578,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04620/070119",
@@ -13411,7 +14593,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04644/090119",
@@ -13425,7 +14608,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04097/221118",
@@ -13439,7 +14623,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA03013/260618",
@@ -13453,7 +14638,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA04560/020119",
@@ -13467,7 +14653,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA01306/160118",
@@ -13481,7 +14668,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02689/170518",
@@ -13495,7 +14683,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02663/140518",
@@ -13509,7 +14698,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04214/011218",
@@ -13523,7 +14713,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04386/161218",
@@ -13537,7 +14728,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03813/241018",
@@ -13551,7 +14743,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03685/A1R/311218",
@@ -13565,7 +14758,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03794/231018",
@@ -13579,7 +14773,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04541/311218",
@@ -13593,7 +14788,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03648/101018",
@@ -13607,7 +14803,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03055/020718",
@@ -13621,7 +14818,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/KARJAN/Others/MAA04638/080119",
@@ -13635,7 +14833,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03178/180718",
@@ -13649,7 +14848,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03124/090718",
@@ -13663,7 +14863,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03121/090718",
@@ -13677,7 +14878,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03454/190918",
@@ -13691,7 +14893,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02944/190618",
@@ -13705,7 +14908,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02882/120618",
@@ -13719,7 +14923,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03123/090718",
@@ -13733,7 +14938,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA03366/050918",
@@ -13747,7 +14953,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02959/200618",
@@ -13761,7 +14968,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03876/291018",
@@ -13775,7 +14983,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02440/210418",
@@ -13789,7 +14998,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03197/200718",
@@ -13803,7 +15013,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03670/111018",
@@ -13817,7 +15028,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03059/020718",
@@ -13831,7 +15043,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02997/250618",
@@ -13845,7 +15058,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04010/A1M/300319",
@@ -13859,7 +15073,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02303/070418",
@@ -13873,7 +15088,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03552/290918",
@@ -13887,7 +15103,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VAGHODIA/Others/RAA04160/291118",
@@ -13901,7 +15118,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03567/031018",
@@ -13915,7 +15133,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA00159/150917",
@@ -13929,7 +15148,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03741/191018",
@@ -13943,7 +15163,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03712/161018",
@@ -13957,7 +15178,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04499/281218",
@@ -13971,7 +15193,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03611/061018",
@@ -13985,7 +15208,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04404/181218",
@@ -13999,7 +15223,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA01526/050218",
@@ -14013,7 +15238,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03497/260918",
@@ -14027,7 +15253,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03411/140918",
@@ -14041,7 +15268,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03749/201018",
@@ -14055,7 +15283,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03374/050918",
@@ -14069,7 +15298,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA04582/030119",
@@ -14083,7 +15313,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA02245/030418",
@@ -14097,7 +15328,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03606/051018",
@@ -14111,7 +15343,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04003/061118",
@@ -14125,7 +15358,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04376/151218",
@@ -14139,7 +15373,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03428/170918",
@@ -14153,7 +15388,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03439/180918",
@@ -14167,7 +15403,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA05128/220319",
@@ -14181,7 +15418,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03861/291018",
@@ -14191,11 +15429,12 @@ var propertyDetails = {
         "projectFolder":"Gujarat/Vadodara/taksh-aura-phase-2",
         "elevationThumbImage":"",
         "name":"Taksh Aura Phase-2",
-        "address":"Taksh Aura, besides Nijanand Ashram, Adjoining L&T knowledge city, ,N.H. â€“ 8, ankhol Ta. Dist. Vadodara - 390019",
+        "address":"Taksh Aura, besides Nijanand Ashram, Adjoining L&T knowledge city, ,N.H. – 8, ankhol Ta. Dist. Vadodara - 390019",
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04250/061218",
@@ -14209,7 +15448,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03658/111018",
@@ -14223,7 +15463,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA03818/251018",
@@ -14237,21 +15478,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
-    },
-    {
-        "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04806/070219",
-        "promoterName":"SHREENATH DEVELOPERS",
-        "unitTypeList":[],
-        "bedroomsList":[],
-        "projectFolder":"Gujarat/Vadodara/null",
-        "elevationThumbImage":"",
-        "name":"Nathdwar Villa",
-        "address":"\"NATHDWAR VILLA\" OPP. D-MART, ,WAGHODIA ROAD",
-        "textOfSellingItems":"",
-        "carpetArea":"",
-        "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04817/080219",
@@ -14265,7 +15493,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04640/080119",
@@ -14279,7 +15508,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04297/101218",
@@ -14293,7 +15523,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA04434/201218",
@@ -14307,7 +15538,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA04180/301118",
@@ -14321,7 +15553,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04487/271218",
@@ -14335,7 +15568,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA04279/071218",
@@ -14349,7 +15583,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03998/061118",
@@ -14363,7 +15598,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04122/271118",
@@ -14377,7 +15613,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04196/011218",
@@ -14391,7 +15628,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA01794/280218",
@@ -14405,7 +15643,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04480/271218",
@@ -14419,7 +15658,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/PADRA/Others/RAA05034/120319",
@@ -14433,7 +15673,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04585/030119",
@@ -14447,7 +15688,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04255/061218",
@@ -14461,7 +15703,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04253/061218",
@@ -14475,7 +15718,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03892/301018",
@@ -14489,7 +15733,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04467/261218",
@@ -14503,7 +15748,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04303/111218",
@@ -14517,7 +15763,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04493/281218",
@@ -14531,7 +15778,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04751/250119",
@@ -14545,7 +15793,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VAGHODIA/Others/RAA04580/030119",
@@ -14559,7 +15808,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/CAA04736/240119",
@@ -14573,7 +15823,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA04734/240119",
@@ -14587,7 +15838,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04772/300119",
@@ -14601,7 +15853,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04812/080219",
@@ -14615,7 +15868,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04694/180119",
@@ -14629,7 +15883,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA05090/190319",
@@ -14643,7 +15898,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VAGHODIA/Others/PAA05192/020419",
@@ -14657,7 +15913,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03772/221018",
@@ -14671,7 +15928,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04869/180219",
@@ -14685,7 +15943,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04879/190219",
@@ -14699,7 +15958,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04862/160219",
@@ -14713,7 +15973,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA05108/200319",
@@ -14727,7 +15988,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA05145/270319",
@@ -14741,7 +16003,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA05096/190319",
@@ -14755,7 +16018,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA05061/150319",
@@ -14769,7 +16033,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA02727/230518",
@@ -14783,7 +16048,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA05206/040419",
@@ -14797,7 +16063,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA05203/040419",
@@ -14811,7 +16078,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA05076/180319",
@@ -14825,7 +16093,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA05072/180319",
@@ -14839,7 +16108,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA03302/310718",
@@ -14853,7 +16123,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA05201/040419",
@@ -14867,7 +16138,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA05236/100419",
@@ -14881,7 +16153,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA05414/100519",
@@ -14895,7 +16168,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA05295/180419",
@@ -14909,7 +16183,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA05440/150519",
@@ -14923,7 +16198,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA05270/120419",
@@ -14937,7 +16213,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA05266/110419",
@@ -14951,7 +16228,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA05452/160519",
@@ -14965,7 +16243,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA05410/080519",
@@ -14979,7 +16258,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA05269/120419",
@@ -14993,7 +16273,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VAGHODIA/Others/MAA05262/110419",
@@ -15007,7 +16288,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/MAA05317/250419",
@@ -15021,7 +16303,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA05353/300419",
@@ -15035,7 +16318,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     },
     {
         "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA00697/EX1/230119",
@@ -15049,7 +16333,8 @@ var propertyDetails = {
         "textOfSellingItems":"",
         "carpetArea":"",
         "contactToDisplay":"",
-        "price":""
+        "price":"",
+        "premium":false
     }
 ]
 };
